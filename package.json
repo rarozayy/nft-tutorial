@@ -1,0 +1,22 @@
+{
+  "name": "nft-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "@nomiclabs/hardhat-etherscan": "^3.0.0",
+    "ethers": "^5.5.3",
+    "hardhat": "^2.8.3",
+    "node-fetch": "^2.6.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "dotenv": "^14.3.2"
+  }
+}
