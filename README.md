@@ -1,2 +1,4 @@
 # nft-tutorial
-Deployment of a nft collection on opensea 
+Deploying an nft collection following the opensea developer tutorial.
+
+https://docs.opensea.io/docs/developer-tutorials
